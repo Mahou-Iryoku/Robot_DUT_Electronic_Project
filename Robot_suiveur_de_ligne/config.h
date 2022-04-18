@@ -1,0 +1,3 @@
+#define LED_GAUCHE LATBbits.LATB3
+#define LED_MILIEU LATBbits.LATB4
+#define LED_DROITE LATBbits.LATB5
